@@ -6,7 +6,7 @@ body, html {
   font-family: Arial, sans-serif;
   display: flex;
   flex-direction: column;
-  background-image: url('C:/Users/RIMA/Desktop/fingerprint-based-atm-system/client/public/images/1171.jpg_wh860.jpg'); /* Background image */
+  /*background-image: url('/images/bg.jpg'); /* Background image */
   background-size: cover;
   background-position: center;
   background-attachment: fixed; /* Keeps the image fixed when scrolling */
